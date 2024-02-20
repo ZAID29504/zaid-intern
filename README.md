@@ -1,7 +1,7 @@
 <html><body>
     <h1>Codsoft Internship Tasks Overview</h1>
 
-    <h2>Objective: Applied machine learning techniques using Python to solve real-world problems in a professional setting.</h2>
+    <h2>Objective: Applied machine learning techniques using Python to solve real-world problems in a professional setting</h2>
 
     <h3>Tasks:</h3>
 
