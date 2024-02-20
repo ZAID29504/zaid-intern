@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Codsoft Internship Overview</title>
-</head>
-<body>
 
     <h1>Codsoft Internship Tasks Overview</h1>
 
@@ -50,5 +42,3 @@
         <li>Enhanced Python programming skills and familiarity with essential data science libraries.</li>
     </ul>
 
-</body>
-</html>
