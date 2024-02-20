@@ -1,5 +1,5 @@
-<h1>Codsoft<h1>
-Internship Tasks Overview:
+<h1>Codsoft</h1>
+<h4>Internship Tasks Overview:</h4>
 
 Objective: Applied machine learning techniques using Python to solve real-world problems in a professional setting.
 Tasks:
