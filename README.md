@@ -1,4 +1,4 @@
-
+<html><body>
     <h1>Codsoft Internship Tasks Overview</h1>
 
     <h2>Objective: Applied machine learning techniques using Python to solve real-world problems in a professional setting.</h2>
@@ -42,3 +42,4 @@
         <li>Enhanced Python programming skills and familiarity with essential data science libraries.</li>
     </ul>
 
+</body></html>
